@@ -1,0 +1,2 @@
+rootProject.name = "Android_MISSION_1"
+include ':app'
